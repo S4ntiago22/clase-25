@@ -1,2 +1,2 @@
-# clase-25
-revisión de librería
+# PRO-C25-AA
+Plantilla de código de la actividad del alumno
